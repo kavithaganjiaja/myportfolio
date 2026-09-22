@@ -70,7 +70,7 @@ const Footer = () => {
 
             <div>
               <span>Email</span>
-              <a href="mailto:your-email@example.com">
+              <a href="mailto:ganjikavita@gmail.com">
                 ganjikavita@gmail.com
               </a>
             </div>
