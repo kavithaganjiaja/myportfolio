@@ -60,7 +60,7 @@ const Contact = () => {
     try {
       setIsSubmitting(true);
       await fetch(
-        "https://formsubmit.co/ganjikavita@gmail.com", 
+        "https://formsubmit.co/ajax/ganjikavita@gmail.com", 
         { 
           method: "POST", 
           headers: { 
