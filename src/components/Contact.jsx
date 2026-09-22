@@ -76,6 +76,11 @@ const Contact = () => {
             }), 
           } 
         ); 
+      const data = await response.json(); 
+        console.log("FormSubmit response:", data); 
+        if (!response.ok || data.success === false) { 
+          throw new Error(data.message || "Form submission failed"); 
+        }
         setStatus({
         type: "success",
         message: "Your message has been sent successfully!",
