@@ -150,7 +150,7 @@ const Contact = () => {
 
                 <div>
                   <span>Email</span>
-                  <a href="mailto:your-email@example.com">
+                  <a href="mailto:ganjikavita@gmail.com">
                     ganjikavita@gmail.com
                   </a>
                 </div>
@@ -211,7 +211,7 @@ const Contact = () => {
                 </a>
 
                 <a
-                  href="mailto:your-email@example.com"
+                  href="mailto:ganjikavita@gmail.com"
                   className="social-link"
                   aria-label="Email"
                 >
@@ -363,7 +363,7 @@ const Contact = () => {
           </div>
 
           <a
-            href="mailto:your-email@example.com"
+            href="mailto:ganjikavita@gmail.com"
             className="secondary-btn group"
           >
             Let's Talk
